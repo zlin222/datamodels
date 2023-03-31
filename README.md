@@ -1,4 +1,4 @@
-# datamodels
+# Datamodels
 
 * Teradata: teradata.md
 * IBM Informix: ibminformix.md
