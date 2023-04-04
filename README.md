@@ -1,6 +1,6 @@
 # Datamodels
 
-[* Teradata: teradata.md](/datamodels/teradata.md)
+[* Teradata: teradata.md](/teradata.md)
 * IBM Informix: ibminformix.md
 * Amazon RDS: amazonrds.md
 * Postgres: postgres.md
